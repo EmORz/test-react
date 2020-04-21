@@ -1,4 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### git remote update
+### git status
+The latter then reports how many commits behind my local is. (if Any)
+
+then
+
+### git pull origin master
 
 ## Simple test on pull data :) :) :)
 - Dashes work just as well
