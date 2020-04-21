@@ -23,7 +23,7 @@ class Timer extends Component {
         })
     }
   render() {
-  return <span>Time is: {this.state.date.toLocaleTimeString()}</span>;
+  return <span> Edied by Emo and push to github:) Time is: {this.state.date.toLocaleTimeString()}</span>;
   }
 }
 export default Timer;
