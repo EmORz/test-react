@@ -1,4 +1,4 @@
-![GitHub Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fzascars%2Fphotos%2F&psig=AOvVaw1N92DkCXV6PiHOQ-EoedCf&ust=1588094959425000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNil6qCRiekCFQAAAAAdAAAAABAD)
+![GitHub Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQLblnJO0s4loiKnUNP-K8v4k4Rv-qZCNjH4VbKE51o4pWPvFth&usqp=CAU)
 Format: ![Alt Text](url)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
